@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://sayanmondal2098.github.io/knowledgebase/blog</id>
+    <title>Knowledge Base Blog</title>
+    <updated>2022-11-10T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://sayanmondal2098.github.io/knowledgebase/blog"/>
+    <subtitle>Knowledge Base Blog</subtitle>
+    <icon>https://sayanmondal2098.github.io/knowledgebase/img/knowledgebase.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://sayanmondal2098.github.io/knowledgebase/blog/welcome"/>
+        <updated>2022-11-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to Patch Management.]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to Patch Management.
+This is our first Post.From today,we'll start working on the project from today - 20th Nov, 2021.</p><p>Simply add Markdown files (or folders) to the <code>blog</code> directory.</p><p>Regular blog authors can be added to <code>authors.yml</code>.</p><p>The blog post date can be extracted from filenames, such as:</p><ul><li><code>2019-05-30-welcome.md</code></li><li><code>2019-05-30-welcome/index.md</code></li></ul><p><img loading="lazy" alt="Docusaurus Plushie" src="/knowledgebase/assets/images/docusaurus-plushie-banner-55be6654f1ac0f5f68c4241f183266b7.png" width="280" height="129" class="img_ev3q"></p><p>Thank You Everyone.</p>]]></content>
+        <author>
+            <name>Sayan Mondal</name>
+            <uri>https://github.com/sayanmondal2098</uri>
+        </author>
+        <author>
+            <name>Sayan Mondal</name>
+            <uri>https://github.com/sayanmondal2098</uri>
+        </author>
+        <category label="patch management" term="patch management"/>
+        <category label="hello" term="hello"/>
+        <category label="welcome" term="welcome"/>
+    </entry>
+</feed>
