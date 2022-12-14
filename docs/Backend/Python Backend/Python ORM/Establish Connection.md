@@ -1,4 +1,4 @@
-# Establishing Connectivity - the Engine[](https://docs.sqlalchemy.org/en/20/tutorial/engine.html#establishing-connectivity-the-engine "Permalink to this heading")
+# Establishing Connectivity - the Engine
 
 The start of any SQLAlchemy application is an object called the  [`Engine`](https://docs.sqlalchemy.org/en/20/core/connections.html#sqlalchemy.engine.Engine "sqlalchemy.engine.Engine"). This object acts as a central source of connections to a particular database, providing both a factory as well as a holding space called a  [connection pool](https://docs.sqlalchemy.org/en/20/core/pooling.html)  for these database connections. The engine is typically a global object created just once for a particular database server, and is configured using a URL string which will describe how it should connect to the database host or backend.
 
