@@ -13,7 +13,7 @@ const config = {
   baseUrl: '/knowledgebase/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/knowledgebase.ico',
+  favicon: 'img/logo2.webp',
   organizationName: 'Sayan & Bread and Code', // Usually your GitHub org/user name.
   projectName: 'knowledgebase', // Usually your repo name.
 
@@ -47,7 +47,7 @@ const config = {
         title: 'A Free Knowledge Base for everyone',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/knowledgebase.svg',
+          src: 'img/logo1.png',
         },
         items: [
           {
