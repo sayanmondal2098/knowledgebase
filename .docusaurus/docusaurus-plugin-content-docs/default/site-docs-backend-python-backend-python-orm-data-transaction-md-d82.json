@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Backend/Python Backend/Python ORM/Data Transaction",
+  "id": "Backend/Python Backend/Python ORM/Data Transaction",
+  "title": "Working with Transactions and the DBAPI",
+  "description": "With the  Engine  object ready to go, we may now proceed to dive into the basic operation of an  Engine  and its primary interactive endpoints, the  Connection  and  Result. We will additionally introduce the ORM’s  facade  for these objects, known as the  Session.",
+  "source": "@site/docs/Backend/Python Backend/Python ORM/Data Transaction.md",
+  "sourceDirName": "Backend/Python Backend/Python ORM",
+  "slug": "/Backend/Python Backend/Python ORM/Data Transaction",
+  "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Data Transaction",
+  "draft": false,
+  "editUrl": "https://sayanmondal2098.github.io/knowledgebase/docs/docs/Backend/Python Backend/Python ORM/Data Transaction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Table",
+    "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Create Table"
+  },
+  "next": {
+    "title": "Establishing Connectivity - the Engine[](https://docs.sqlalchemy.org/en/20/tutorial/engine.html#establishing-connectivity-the-engine \"Permalink to this heading\")",
+    "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Establish Connection"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "permalink": "/knowledgebase/blog/welcome",
+  "editUrl": "https://sayanmondal2098.github.io/knowledgebase/blog/blog/2022-11-10-welcome/index.md",
+  "source": "@site/blog/2022-11-10-welcome/index.md",
+  "title": "Welcome",
+  "description": "Welcome to Patch Management.",
+  "date": "2022-11-10T00:00:00.000Z",
+  "formattedDate": "November 10, 2022",
+  "tags": [
+    {
+      "label": "patch management",
+      "permalink": "/knowledgebase/blog/tags/patch-management"
+    },
+    {
+      "label": "hello",
+      "permalink": "/knowledgebase/blog/tags/hello"
+    },
+    {
+      "label": "welcome",
+      "permalink": "/knowledgebase/blog/tags/welcome"
+    }
+  ],
+  "readingTime": 0.295,
+  "hasTruncateMarker": false,
+  "authors": [
+    {
+      "name": "Sayan Mondal",
+      "title": "Project Manager of KnowledgeBase",
+      "url": "https://github.com/sayanmondal2098",
+      "imageURL": "https://github.com/sayanmondal2098.png",
+      "key": "sayan"
+    },
+    {
+      "name": "Sayan Mondal",
+      "title": "Documentation Admin of KnowledgeBase",
+      "url": "https://github.com/sayanmondal2098",
+      "imageURL": "https://github.com/sayanmondal2098.png",
+      "key": "sayan1"
+    }
+  ],
+  "frontMatter": {
+    "slug": "welcome",
+    "title": "Welcome",
+    "authors": [
+      "sayan",
+      "sayan1"
+    ],
+    "tags": [
+      "patch management",
+      "hello",
+      "welcome"
+    ]
+  }
+}

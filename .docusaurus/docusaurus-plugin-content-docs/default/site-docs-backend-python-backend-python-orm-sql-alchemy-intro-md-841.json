@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Backend/Python Backend/Python ORM/SQLAlchemy Intro",
+  "id": "Backend/Python Backend/Python ORM/SQLAlchemy Intro",
+  "title": "SQLAlchemy Introduction",
+  "description": "What is SQLAlchemy",
+  "source": "@site/docs/Backend/Python Backend/Python ORM/SQLAlchemy Intro.md",
+  "sourceDirName": "Backend/Python Backend/Python ORM",
+  "slug": "/Backend/Python Backend/Python ORM/SQLAlchemy Intro",
+  "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/SQLAlchemy Intro",
+  "draft": false,
+  "editUrl": "https://sayanmondal2098.github.io/knowledgebase/docs/docs/Backend/Python Backend/Python ORM/SQLAlchemy Intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Introduction",
+    "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Introduction"
+  },
+  "next": {
+    "title": "Redux",
+    "permalink": "/knowledgebase/docs/Fontend/Redux"
+  }
+}

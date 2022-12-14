@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Backend/Load Balancer/Introduction",
+  "id": "Backend/Load Balancer/Introduction",
+  "title": "Load Balancer Introduction",
+  "description": "Load balancing  refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a  server farm  or  server pool.",
+  "source": "@site/docs/Backend/Load Balancer/Introduction.md",
+  "sourceDirName": "Backend/Load Balancer",
+  "slug": "/Backend/Load Balancer/Introduction",
+  "permalink": "/knowledgebase/docs/Backend/Load Balancer/Introduction",
+  "draft": false,
+  "editUrl": "https://sayanmondal2098.github.io/knowledgebase/docs/docs/Backend/Load Balancer/Introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial Intro",
+    "permalink": "/knowledgebase/docs/intro"
+  },
+  "next": {
+    "title": "How to start",
+    "permalink": "/knowledgebase/docs/Backend/Python Backend/Basic Setup"
+  }
+}

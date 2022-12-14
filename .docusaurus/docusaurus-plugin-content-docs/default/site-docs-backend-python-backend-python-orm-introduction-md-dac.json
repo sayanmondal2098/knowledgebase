@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Backend/Python Backend/Python ORM/Introduction",
+  "id": "Backend/Python Backend/Python ORM/Introduction",
+  "title": "Introduction",
+  "description": "What is Object Relational Mapping (ORM)",
+  "source": "@site/docs/Backend/Python Backend/Python ORM/Introduction.md",
+  "sourceDirName": "Backend/Python Backend/Python ORM",
+  "slug": "/Backend/Python Backend/Python ORM/Introduction",
+  "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Introduction",
+  "draft": false,
+  "editUrl": "https://sayanmondal2098.github.io/knowledgebase/docs/docs/Backend/Python Backend/Python ORM/Introduction.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Establishing Connectivity - the Engine[](https://docs.sqlalchemy.org/en/20/tutorial/engine.html#establishing-connectivity-the-engine \"Permalink to this heading\")",
+    "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Establish Connection"
+  },
+  "next": {
+    "title": "SQLAlchemy Introduction",
+    "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/SQLAlchemy Intro"
+  }
+}
