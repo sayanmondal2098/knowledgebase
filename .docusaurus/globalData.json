@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/knowledgebase/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/knowledgebase/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Backend/Load Balancer/Introduction",
+              "path": "/knowledgebase/docs/Backend/Load Balancer/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/Basic Setup",
+              "path": "/knowledgebase/docs/Backend/Python Backend/Basic Setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/FastAPI/Welcome",
+              "path": "/knowledgebase/docs/Backend/Python Backend/FastAPI/Welcome",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/Python ORM/Create Table",
+              "path": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Create Table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/Python ORM/Data Transaction",
+              "path": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Data Transaction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/Python ORM/Delete record",
+              "path": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Delete record",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/Python ORM/Establish Connection",
+              "path": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Establish Connection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/Python ORM/Insert Data",
+              "path": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Insert Data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/Python ORM/Introduction",
+              "path": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Introduction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/Python ORM/Query Table",
+              "path": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Query Table",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/Python ORM/SQLAlchemy Intro",
+              "path": "/knowledgebase/docs/Backend/Python Backend/Python ORM/SQLAlchemy Intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Backend/Python Backend/Python ORM/Update Data",
+              "path": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Update Data",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Fontend/Redux",
+              "path": "/knowledgebase/docs/Fontend/Redux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/knowledgebase/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/knowledgebase/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

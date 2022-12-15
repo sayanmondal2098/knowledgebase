@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Backend/Python Backend/Python ORM/Establish Connection",
+  "id": "Backend/Python Backend/Python ORM/Establish Connection",
+  "title": "Establishing Connectivity - the Engine",
+  "description": "The start of any SQLAlchemy application is an object called the  Engine. This object acts as a central source of connections to a particular database, providing both a factory as well as a holding space called a  connection pool  for these database connections. The engine is typically a global object created just once for a particular database server, and is configured using a URL string which will describe how it should connect to the database host or backend.",
+  "source": "@site/docs/Backend/Python Backend/Python ORM/Establish Connection.md",
+  "sourceDirName": "Backend/Python Backend/Python ORM",
+  "slug": "/Backend/Python Backend/Python ORM/Establish Connection",
+  "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Establish Connection",
+  "draft": false,
+  "editUrl": "https://sayanmondal2098.github.io/knowledgebase/docs/docs/Backend/Python Backend/Python ORM/Establish Connection.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Delete Data from Table",
+    "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Delete record"
+  },
+  "next": {
+    "title": "Insert Data into Table",
+    "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Insert Data"
+  }
+}

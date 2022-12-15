@@ -1,0 +1,24 @@
+{
+  "unversionedId": "Backend/Python Backend/Python ORM/Insert Data",
+  "id": "Backend/Python Backend/Python ORM/Insert Data",
+  "title": "Insert Data into Table",
+  "description": "## Steps to insert data in a table",
+  "source": "@site/docs/Backend/Python Backend/Python ORM/Insert Data.md",
+  "sourceDirName": "Backend/Python Backend/Python ORM",
+  "slug": "/Backend/Python Backend/Python ORM/Insert Data",
+  "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Insert Data",
+  "draft": false,
+  "editUrl": "https://sayanmondal2098.github.io/knowledgebase/docs/docs/Backend/Python Backend/Python ORM/Insert Data.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Establishing Connectivity - the Engine",
+    "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Establish Connection"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/knowledgebase/docs/Backend/Python Backend/Python ORM/Introduction"
+  }
+}
