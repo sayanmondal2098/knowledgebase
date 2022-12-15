@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkknowledgebase=self.webpackChunkknowledgebase||[]).push([[442],{229:e=>{e.exports=JSON.parse('{"label":"patch management","permalink":"/knowledgebase/blog/tags/patch-management","allTagsPath":"/knowledgebase/blog/tags","count":1}')}}]);
